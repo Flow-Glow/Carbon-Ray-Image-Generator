@@ -1,2 +1,6 @@
-# carbon-ray-
-Generates https://carbon.now.sh/ and https://ray.so/ code images
+# Carbon and Ray image generation 
+
+
+Generates code images from websites https://ray.so/ and https://carbon.now.sh/
+
+
