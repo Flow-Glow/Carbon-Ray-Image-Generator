@@ -1,4 +1,6 @@
 import requests
+
+
 def snippet(params):
     url = 'https://api.crabon.io/v1/snippet'
     path = 'i.png'
